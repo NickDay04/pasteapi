@@ -11,12 +11,12 @@ setuptools.setup(
     description="A package to simplify interacting with the Pastebin API",
     long_description=None,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/NickDay04/pasteapi",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
+        "Operating System :: Windows 10",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.8',
 )
